@@ -1,0 +1,26 @@
+
+body{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.email-container{
+    text-align: center;
+    width: 400px;
+    align-items: center;
+    padding: 120% 30%;
+}
+.password-container{
+    text-align: center;
+    width: 400px;
+    align-items: center;
+    padding: 120% 30%;
+}
+.button-container{
+    color: blue;
+    position: center;
+    width: 20%;
+    padding: 30%;
+   
+
+}
